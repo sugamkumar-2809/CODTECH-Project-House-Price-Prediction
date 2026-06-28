@@ -284,40 +284,6 @@ predict_house_price(
 
 ---
 
-# 🚀 Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/House-Price-Prediction.git
-```
-
-## Navigate to Project
-
-```bash
-cd House-Price-Prediction
-```
-
-## Install Dependencies
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
-## Launch Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-Project4_House_Price_Prediction.ipynb
-```
-
----
-
 # 🎓 Learning Outcomes
 
 This project helped in understanding:
